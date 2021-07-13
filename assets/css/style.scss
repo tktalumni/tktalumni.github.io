@@ -13,22 +13,18 @@ However, for these versions the navbar will inherit default position */
   position: -webkit-sticky;
   top: 0;
 }
-/* Style the navigation bar links */
-.navbar a {
-  float: none;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  display: block;
-  color: #ee981b;
-  text-align: center;
-  padding: 14px 20px;
-  text-decoration: none;
+ul {
+  list-style: none;
+  display: inline-block;
 }
-/* Right-aligned link */
-.navbar a.right {
-  float: right;
+
+ul li {
+  float: left;
+  margin: 0 20px;
+}
+
+ul li a {
+  color: white;
 }
 /* Change color on hover */
 .navbar a:hover {
