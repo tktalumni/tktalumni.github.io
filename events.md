@@ -8,11 +8,11 @@ filename: events
 
 ### Hallituksen kokous - Board meeting 
 
-🇫🇮 Joka kuun toinen keskiviikko (arkipyhän sattuessa seuraava). Koronaviruspandemian aikana kokoustamme etänä Jitsissä. 
+🇫🇮 Joka kuun toinen keskiviikko klo 17 (arkipyhän sattuessa seuraava). Koronaviruspandemian aikana kokoustamme etänä Jitsissä. 
 
-🇬🇧 Monthly board meetings on 2nd Wednesday of the Month (or next if it is a public Holiday). Currently held in Jitsi. 
+🇬🇧 Monthly board meetings on 2nd Wednesday of the Month at 5pm (or next if it is a public Holiday). Currently held in Jitsi. 
 
-https://meet.jit.si/tkt-alumni-2021
+[Link to Jitsi](https://meet.jit.si/tkt-alumni-2021)
 
 
 ### ON HOLD Kuukausittainen Alumni Ale - Monthly Alumni Ale afterwork
