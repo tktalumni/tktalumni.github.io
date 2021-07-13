@@ -12,4 +12,6 @@ filename: index
 
 [Liity jäseneksi, jäsenyys on maksuton. Apply for a free society membership.](https://forms.gle/4aFmgLHKm1JMWcvA6)
 
+[Yhdistyksen säännöt. Society rules. (in Finnish)](https://drive.google.com/file/d/1pqXgtp0RQsWZVH1GSCGcROC6PV4ZTzpZ/view?usp=sharing)
+
 [Tietosuojaseloste. Privacy statement. (in Finnish)](https://docs.google.com/document/d/1iNEvxeruBPgDEQYYiYqjSq5FQBcUcq_WdyX-U_94gG8/edit?usp=sharing)
