@@ -2,34 +2,7 @@
 ---
 $section-headings-color: #ee981b;
 @import "{{ site.theme }}";
-/* Sticky navbar - toggles between relative and fixed, depending on the scroll position. 
-It is positioned relative until a given offset position is met in the viewport - then it "sticks" in place (like position:fixed). 
-The sticky value is not supported in IE or Edge 15 and earlier versions. 
-However, for these versions the navbar will inherit default position */
-.navbar {
-  overflow: hidden;
-  background-color: black;
-  top: 0;
-  text-align: center;
-}
-.navbar ul {
-  list-style: none;
-  display: inline-block;
-}
 
-.navbar ul li {
-  float: left;
-  margin: 0 20px;
-}
-
-.navbar ul li a {
-  color: white;
-}
-/* Change color on hover */
-.navbar ul li a:hover {
-  background-color: #ee981b;
-  color: black;
-}
 .page-header {
   background: black;
   text-align: center;
