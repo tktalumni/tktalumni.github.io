@@ -18,6 +18,24 @@ filename: index
 
 ---
 
+## Keskustelu ja tiedotus - Discussions and communication
+
+[Facebook group](https://www.facebook.com/groups/171052502920239)
+
+[Facebook page](https://www.facebook.com/tktalumni)
+
+Telegram group: tkt_alumni
+
+Slack: tkt-alumni.slack.com 
+
+Jäsenet liitetään sähköpostilistalle. Members are added to a mailing list.
+
+🇫🇮 Viestinnän perusperiaate: Tulevista tapahtumista yms. tiedotetaan melko tasapuolisesti Facebookissa, Telegramissa ja Slackissa. Tapahtumille luodaan Facebook-tapahtuma. Koska haluamme välttää jäsentemme sähköpostien spammaamista, jäsenlistalla tiedotetaan lähinnä yhdistyksen virallisista asioista, kuten tulevista vuosikokouksista. Vuodessa voidaan lähettää myös joitakin kokoavia sähköpostiviestejä, tai tiedottaa poikkeuksellisista asioista (kuten syksyllä 2020 järjestetty paitatilaus). 
+
+🇬🇧 Our communication principles: Future events and such are communicated in Facebook, Telegram and Slack. We also create an event in Facebook for our events. As we want to avoid spamming our members, we mainly communicate official society matters, such as upcoming annual meetings, in the mailing list. We may also send some messages that gather more information in one message, or if there is something unusual happening (such as alumni shirt ordering in autumn 2020). 
+
+---
+
 ## Tapahtumat - Events
 
 ### Hallituksen kokous - Board meeting 
