@@ -9,25 +9,24 @@ However, for these versions the navbar will inherit default position */
 .navbar {
   overflow: hidden;
   background-color: black;
-  position: sticky;
-  position: -webkit-sticky;
   top: 0;
+  text-align: center;
 }
-ul {
+.navbar ul {
   list-style: none;
   display: inline-block;
 }
 
-ul li {
+.navbar ul li {
   float: left;
   margin: 0 20px;
 }
 
-ul li a {
+.navbar ul li a {
   color: white;
 }
 /* Change color on hover */
-.navbar a:hover {
+.navbar ul li a:hover {
   background-color: #ee981b;
   color: black;
 }
