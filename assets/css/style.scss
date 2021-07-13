@@ -15,7 +15,11 @@ However, for these versions the navbar will inherit default position */
 }
 /* Style the navigation bar links */
 .navbar a {
-  float: left;
+  float: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   display: block;
   color: #ee981b;
   text-align: center;
