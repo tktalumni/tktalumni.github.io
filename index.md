@@ -38,6 +38,20 @@ Jäsenet liitetään sähköpostilistalle. Members are added to a mailing list.
 
 ## Tapahtumat - Events
 
+### 25.11.2021: Vuosikokous - Annual meeting 
+
+🇫🇮 
+
+🇬🇧 
+
+
+### 08.12.2021: Alumni ALE @ Bruuveri, Kamppi
+
+🇫🇮 
+
+🇬🇧 
+
+
 ### Hallituksen kokous - Board meeting 
 
 🇫🇮 Joka kuun toinen keskiviikko klo 17 (arkipyhän sattuessa seuraava). Koronaviruspandemian aikana kokoustamme etänä [Jitsissä](https://meet.jit.si/tkt-alumni-2021). 
