@@ -13,3 +13,16 @@ $section-headings-color: #ee981b;
   opacity: 0.7;
   color: white;
 }
+.link {
+  color: #ee981b;
+  margin-inline-start: 10px;
+  margin-inline-end: 10px;
+  text-decoration: none;
+}
+.link:hover {
+  opacity: 0.7;
+  color: white;
+  margin-inline-start: 10px;
+  margin-inline-end: 10px;
+  text-decoration: none;
+}
