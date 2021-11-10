@@ -1,23 +1,24 @@
 ---
 title: Tapahtumat
 layout: template
-filename: index
+filename: events
 --- 
 
 ## Tulevat tapahtumat - Upcoming events
 
 ### **25.11.2021**  Vuosikokous - Annual meeting 
 
-🇫🇮 
+🇫🇮 Tervetuloa TKT-alumni ry:n vuosikokoukseen torstaina 25.11.2020 kello 18.00. 
+Kokouspaikkana toimii Knowit:n toimisto osoitteessa Urho Kekkosen katu 2C, 00100 Helsinki. Kokoukseen voi lisäksi osallistua etänä Zoomissa. Kutsun ja tarkemmat tiedot löydät [täältä](annual_meeting).
 
-🇬🇧 
+🇬🇧 Welcome to the annual meeting of TKT-alumni ry on 25th of November at 18:00. Meeting will take place in Urho Kekkosen katu 2C at Knowit office. You can also join via Zoom. You'll find the invite with details [here](annual_meeting).
 
 
 ### **08.12.2021**  Alumni ALE @ Bruuveri, Kamppi
 
-🇫🇮 
+🇫🇮 Tule nauttimaan oluista alumniporukalla Bruuverin kabinettiin! Hallitus kokoustaa klo 17 alkaen. Kokous loppunee 17:30-18:00 välillä, minkä jälkeen iltaa jatketaan oluiden merkeissä vapaamuotoisesti. Olet tervetullut liittymään seuraan joko kokouksen alusta lähtien tai vasta myöhemmin. Yhdistys tarjoaa pientä purtavaa oluiden kaveriksi.
 
-🇬🇧 
+🇬🇧 Come and have a few beers with alumni company in Bruuveri cabinet! We have a board meeting from 17:00 onwards which will end roughly between 17:30-18:00. Then we will continue the evening with beers casually. You may join us already for the meeting or later just to han out. TKT-alumni will offer some snacks to company the beers.
 
 
 ### Hallituksen kokous - Board meeting 
