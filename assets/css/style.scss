@@ -13,16 +13,27 @@ $section-headings-color: #ee981b;
   opacity: 0.7;
   color: white;
 }
-.link {
+.nav-link {
+  font-size: 20px;
   color: #ee981b;
   margin-inline-start: 10px;
   margin-inline-end: 10px;
   text-decoration: none;
 }
-.link:hover {
+.nav-link:hover {
   opacity: 0.7;
   color: white;
   margin-inline-start: 10px;
   margin-inline-end: 10px;
+  text-decoration: none;
+}
+
+.language-selector {
+  font-size: 30px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.language-selector:hover {
   text-decoration: none;
 }
