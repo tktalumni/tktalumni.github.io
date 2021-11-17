@@ -1,0 +1,12 @@
+url: https://www.tkt-alumni.fi
+
+languages: ["fi", "en"]
+exclude_from_localizations: ["assets", "CNAME"]
+defaultLang: fi
+languageNames:
+  fi: 🇫🇮
+  en: 🇬🇧
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-multiple-languages-plugin
+destination: docs/
