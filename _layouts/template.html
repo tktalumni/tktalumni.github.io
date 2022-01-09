@@ -38,8 +38,13 @@
       <h2 class="project-tagline">{% t site.main.tagline %}</h2>
 
       <div class="navbar">
-        <a class="nav-link" href=index>{% t site.pages.main %}</a>
-        <a class="nav-link" href=events>{% t site.pages.events %}</a>
+        {% if site.lang == site.defaultLang %}
+          <a class="nav-link" href="{{ site.baseurl_root }}/index">{% t site.pages.main %}</a>
+          <a class="nav-link" href="{{ site.baseurl_root }}/events">{% t site.pages.events %}</a>
+        {% else %}
+          <a class="nav-link" href="{{ site.baseurl_root }}/{{ site.lang }}/index">{% t site.pages.main %}</a>
+          <a class="nav-link" href="{{ site.baseurl_root }}/{{ site.lang }}/events">{% t site.pages.events %}</a>
+        {% endif %}
       </div>
       
     </header>

@@ -9,3 +9,7 @@ languageNames:
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-multiple-languages-plugin
+collections:
+  events:
+    output: true
+    sort_by: order
