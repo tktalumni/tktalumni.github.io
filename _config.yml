@@ -3,6 +3,7 @@ url: https://www.tkt-alumni.fi
 languages: ["fi", "en"]
 exclude_from_localizations: ["assets", "CNAME"]
 defaultLang: fi
+destination: docs/
 languageNames:
   fi: 🇫🇮
   en: 🇬🇧
