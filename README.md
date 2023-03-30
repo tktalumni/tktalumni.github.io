@@ -3,7 +3,8 @@
 ### Developer instructions
 
 * Install ruby (current build done with ruby 2.7.6)
-* Install Jekyll
+* Install bundler
+* Install jekyll
 * Do changes in `.md` files
 * Build locally using `bundle exec jekyll serve`
-* Deploy changes
+* Deploy changes by pushing to main

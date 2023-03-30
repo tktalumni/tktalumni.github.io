@@ -14,7 +14,7 @@ TKT-alumni ry on Helsingin yliopiston tietojenkäsittelytieteen osaston alumnij�
 
 [Facebook-ryhmä](https://www.facebook.com/groups/171052502920239)
 
-[Facebook sivu](https://www.facebook.com/tktalumni)
+[Facebook-sivu](https://www.facebook.com/tktalumni)
 
 [Telegram-ryhmä](https://t.me/tkt_alumni)
 
