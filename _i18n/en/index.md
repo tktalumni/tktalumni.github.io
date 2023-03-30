@@ -16,10 +16,8 @@ TKT-alumni ry is an alumni organization for people who have studied or worked at
 
 [Facebook page](https://www.facebook.com/tktalumni)
 
-Telegram group: tkt_alumni
-
-Slack: tkt-alumni.slack.com
+[Telegram group](https://t.me/tkt_alumni)
 
 Members are added to a mailing list.
 
-Our communication principles: Future events and such are communicated in Facebook, Telegram and Slack. We also create an event in Facebook for our events. As we want to avoid spamming our members, we mainly communicate official society matters, such as upcoming annual meetings, in the mailing list. We may also send some messages that gather more information in one message, or if there is something unusual happening (such as alumni shirt ordering in autumn 2020). 
+Our communication principles: Future events and such are communicated in primarily in Telegram. For bigger events we also create an event in Facebook. As we want to avoid spamming our members, we mainly communicate official society matters, such as upcoming annual meetings, in the mailing list. We may also send some messages that gather more information in one message, or if there is something unusual happening.

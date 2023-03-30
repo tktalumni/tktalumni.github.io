@@ -2,24 +2,20 @@
 
 
 
-### **22.3.2021**  Matalan kynnyksen presisilta
-
-TKT-alumnit järjestää yhdessä TKO-älyn kanssa esitelmäiltaman Matlun Christina Regina -klusterilla, Leppäsuonkatu 11, Helsinki. Ilmoittautuminen aukeaa keskiviikkona 2.3. klo 18 [TKO-älyn kalenterissa](https://tko-aly.fi/event/1914). Lisätiedot tapahtumasta löydät edellä linkatusta kalenteritapahtumasta.
-
-
 ### Hallituksen kokous
 
-Joka kuun toinen keskiviikko klo 17 (arkipyhän sattuessa seuraava). Koronaviruspandemian aikana kokoustamme etänä [Jitsissä](https://meet.jit.si/tkt-alumni-2021).
+Joka kuun toinen keskiviikko klo 18 (arkipyhän sattuessa seuraava). Kokouksen sijainti ilmoitetaan kokouskohtaisesti Telegrammissa ja jos kokous on etänä kokoustaminen tapahtuu [Jitsissä](https://meet.jit.si/moderated/19ae2faf2f6f13abbc3873a0f167f38ae1db0a3f90bb53c6dfa12ab06ad1ec94).
 
 
-### TAUOLLA Kuukausittainen Alumni Ale
+### Kuukausittainen Alumni Ale
 
-Alumni Ale of afterwork tapahtuma, joka järjestetään perinteisesti hallituksen kokouksen jälkeen Oluthuone Kaislassa (Vilhonkatu 4, Helsinki).
+Alumni Ale on afterwork tapahtuma, joka järjestetään perinteisesti hallituksen kokouksen jälkeen. Alumni Ale tapahtuu samassa paikassa hallituksen kokouksen kanssa, ellei asiasta erikseen mainita.
 
 ---
 
 ## Menneet tapahtumat
 
+* 22.3.2021: Matalan kynnyksen presisilta
 * 8.12.2021: Alumni Ale @ Bruuveri, Kamppi
 * 25.11.2021: Vuosikokous
 * 16.6.2021: Alumni Ale Online with Smartly: Video editing and rendering solution in JS
