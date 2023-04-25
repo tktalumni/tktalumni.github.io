@@ -333,3 +333,7 @@ a:hover { text-decoration: underline; }
 .language-selector { font-size: 30px; padding-left: 5px; padding-right: 5px; }
 
 .language-selector:hover { text-decoration: none; }
+
+.logo-container { display: flex; justify-content: center; margin-top: 5px; }
+
+.logo { height: 70px; }

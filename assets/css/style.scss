@@ -37,3 +37,13 @@ $section-headings-color: #ee981b;
 .language-selector:hover {
   text-decoration: none;
 }
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+.logo {
+  height: 70px;
+}
