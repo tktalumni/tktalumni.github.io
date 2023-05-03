@@ -2,7 +2,11 @@
 
 ### Alumnisitsit TKO-älyn kanssa 17.5.
 
-Kuvaus tulossa myöhemmin!
+TKT-Alumni ry ja TKO-äly ry järjestävät yhteistyössä Alumnisitsit, joissa pääset virkistämään pöytäjuhlamuistojasi tuoreessa seurassa, tapaamaan nykyisiä ja entisiä opiskelijoita ja tietysti pitämään hauskaa hyvässä seurassa!
+
+Sitsipaikkana toimii perinteikäs Uuden ylioppilastalon Alina-sali osoitteessa Mannerheimintie 5 A, 3. kerros. Sitsit alkavat 17.5. klo 18.
+
+Tapahtuman ilmoittautuminen aukeaa 8.5. klo 12. Ilmoittautuminen pyritään avaamaan TKO-älyn kalenterin kautta, mutta TKO-älyn sivuston ollessa kirjoitushetkellä alhaalla, selvittelemme vielä tarvittaessa muuta ilmoittautumistapaa. Linkki ilmoittautumiseen lisätään tälle sivulle ennen ilmoittautumisen aukeamista. Ilmoittaudu ajoissa, sillä paikkoja on rajallisesti – mutta kutsu omat alumnituttusi mielelläsi mukaan!
 
 ### Hallituksen kokous
 
