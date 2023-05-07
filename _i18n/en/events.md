@@ -8,7 +8,7 @@ The location of the sitsis is the traditional Alina-hall which is in the Uusi Yl
 
 The registration for the event begins on 8.5. at 12:00. The registartion is supposed to open through the TKO-äly event calendar, but at the time of writing the TKO-äly website is down, so other options for registration are still considered. The link to the registration will be added to this site before the registartion starts. Register early, because the seats are limited – but do invite your own alumni colleagues to join the table party!
 
-Link to the event: https://tko-aly.fi/event/2154
+Link to the event: [https://tko-aly.fi/event/2154](https://tko-aly.fi/event/2154)
 
 Dress code: smart casual
 

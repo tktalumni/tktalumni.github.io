@@ -8,7 +8,7 @@ Sitsipaikkana toimii perinteikäs Uuden ylioppilastalon Alina-sali osoitteessa M
 
 Tapahtuman ilmoittautuminen aukeaa 8.5. klo 12. Ilmoittautuminen pyritään avaamaan TKO-älyn kalenterin kautta, mutta TKO-älyn sivuston ollessa kirjoitushetkellä alhaalla, selvittelemme vielä tarvittaessa muuta ilmoittautumistapaa. Linkki ilmoittautumiseen lisätään tälle sivulle ennen ilmoittautumisen aukeamista. Ilmoittaudu ajoissa, sillä paikkoja on rajallisesti – mutta kutsu omat alumnituttusi mielelläsi mukaan!
 
-Linkki tapahtumaan: https://tko-aly.fi/event/2154
+Linkki tapahtumaan: [https://tko-aly.fi/event/2154](https://tko-aly.fi/event/2154)
 
 Pukukoodi: smart casual
 
