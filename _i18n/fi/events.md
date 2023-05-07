@@ -8,6 +8,10 @@ Sitsipaikkana toimii perinteikäs Uuden ylioppilastalon Alina-sali osoitteessa M
 
 Tapahtuman ilmoittautuminen aukeaa 8.5. klo 12. Ilmoittautuminen pyritään avaamaan TKO-älyn kalenterin kautta, mutta TKO-älyn sivuston ollessa kirjoitushetkellä alhaalla, selvittelemme vielä tarvittaessa muuta ilmoittautumistapaa. Linkki ilmoittautumiseen lisätään tälle sivulle ennen ilmoittautumisen aukeamista. Ilmoittaudu ajoissa, sillä paikkoja on rajallisesti – mutta kutsu omat alumnituttusi mielelläsi mukaan!
 
+Linkki tapahtumaan: https://tko-aly.fi/event/2154
+
+Pukukoodi: smart casual
+
 ### Hallituksen kokous
 
 Joka kuun toinen keskiviikko klo 18 (arkipyhän sattuessa seuraava). Kokouksen sijainti ilmoitetaan kokouskohtaisesti Telegrammissa ja jos kokous on etänä kokoustaminen tapahtuu [Jitsissä](https://meet.jit.si/moderated/19ae2faf2f6f13abbc3873a0f167f38ae1db0a3f90bb53c6dfa12ab06ad1ec94).
