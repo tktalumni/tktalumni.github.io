@@ -1,6 +1,6 @@
 ## Board meeting minutes
 
-Down below is a list of board meeting minutes, the minutes are arranged from the newest to the oldest.
+Down below is a list of board meeting minutes, the minutes are arranged from the newest to the oldest. The minutes are currently only in Finnish.
 
 [Meeting 4, 12.4.2023](https://drive.google.com/file/d/1eVMj75x5FyWByVsJynoXxSMYBUYvRpU5/view?usp=sharing)
 
