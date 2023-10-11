@@ -4,7 +4,7 @@ TKT-alumni ry on Helsingin yliopiston tietojenkäsittelytieteen osaston alumnij�
 
 [Liity jäseneksi, jäsenyys on maksuton](https://forms.gle/4aFmgLHKm1JMWcvA6)
 
-[Yhdistyksen säännöt](https://drive.google.com/file/d/1pqXgtp0RQsWZVH1GSCGcROC6PV4ZTzpZ/view?usp=sharing)
+[Yhdistyksen säännöt](https://drive.google.com/file/d/1nb0Yxw97PbqJNSlsrjZ-n22n7ExTAdpq/view?usp=sharing)
 
 [Tietosuojaseloste](https://docs.google.com/document/d/1iNEvxeruBPgDEQYYiYqjSq5FQBcUcq_WdyX-U_94gG8/edit?usp=sharing)
 

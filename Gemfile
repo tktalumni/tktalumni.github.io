@@ -7,3 +7,5 @@ group :jekyll_plugins do
   gem 'jekyll-multiple-languages-plugin'
 end
 
+
+gem "webrick", "~> 1.8"
