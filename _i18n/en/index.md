@@ -4,7 +4,7 @@ TKT-alumni ry is an alumni organization for people who have studied or worked at
 
 [Apply for a free society membership](https://forms.gle/4aFmgLHKm1JMWcvA6)
 
-[Society rules (in Finnish)](https://drive.google.com/file/d/1pqXgtp0RQsWZVH1GSCGcROC6PV4ZTzpZ/view?usp=sharing)
+[Society rules (in Finnish)](https://drive.google.com/file/d/1nb0Yxw97PbqJNSlsrjZ-n22n7ExTAdpq/view?usp=sharing)
 
 [Privacy statement (in Finnish)](https://docs.google.com/document/d/1iNEvxeruBPgDEQYYiYqjSq5FQBcUcq_WdyX-U_94gG8/edit?usp=sharing)
 
