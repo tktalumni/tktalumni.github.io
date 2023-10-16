@@ -1,3 +1,45 @@
+## Board
+
+**Email:** tktalumnit@gmail.com 
+
+**Outi Ravila**<br/>
+Chair of the Board
+
+**Ville-Veikko Saari**<br/>
+Vice Chair of the Board
+
+**Miia Rämö**<br/>
+Secretary, Member Coordinator
+
+**Markus Jantunen**<br/>
+Treasurer
+
+**Kalle Viiri**<br/>
+Communications Officer, Student Coordinator, Recreational Coordinator
+
+**Mikko Rinta-Homi**<br/>
+Event Coordinator, Recreational Coordinator
+
+**Jonne Airaksinen**<br/>
+Event Coordinator
+
+**Joonas Sarapalo**<br/>
+Event Coordinator
+
+**Paul Saikko**<br/>
+Event Coordinator
+
+**Raimo Voutilainen**<br/>
+Event Coordinator
+
+## Other nominated officers
+
+**Sean Lang**<br/>
+International Affairs Coordinator
+
+**Olli Keski-Hynnilä**<br/>
+Website Administrator
+
 ## Board meeting minutes
 
 Down below is a list of board meeting minutes, the minutes are arranged from the newest to the oldest. The minutes are currently only in Finnish.
