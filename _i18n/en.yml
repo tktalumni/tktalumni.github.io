@@ -5,4 +5,4 @@ site:
   pages:
     main: Main
     events: Events
-    minutes: Organization
+    organization: Organization

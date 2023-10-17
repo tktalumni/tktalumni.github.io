@@ -1,6 +1,6 @@
 ## Board
 
-**Email:** tktalumnit@gmail.com 
+**Email:** tktalumnit@gmail.com
 
 **Outi Ravila**<br/>
 Chair of the Board
