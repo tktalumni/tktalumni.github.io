@@ -1,5 +1,11 @@
 ## Tulevat tapahtumat
 
+### TKO-äly + TKT-alumni presisilta 16.11.2023
+
+Haluatko kertoa harrastusprojektistasi, intohimostasi tai työpaikastasi? Kuulisitko mielelläsi mitä kymmenen vuotta työelämässä tekee ihmiselle? TKO-äly ja TKT-alumni järjestävät yhteistyössä jälleen presentaatioillan, jossa pääset kuulemaan ensimmäisen käden viisautta tietojenkäsittelytieteen kirjolta niin opiskelijan kuin alumninkin näkökulmasta. Voit myöt itse tulla puhumaan itseäsi kiinnostavasta aiheesta uteliaalle yleisölle!
+
+Lisätietoja osallistumisesta ja tapahtumasta [TKO-älyn kalenterissa](https://members.tko-aly.fi/calendar_events/view/2249)
+
 ### Hallituksen kokous
 
 Joka kuun toinen keskiviikko klo 18 (arkipyhän sattuessa seuraava). Kokouksen sijainti ilmoitetaan kokouskohtaisesti Telegrammissa ja jos kokous on etänä kokoustaminen tapahtuu [Jitsissä](https://meet.jit.si/moderated/19ae2faf2f6f13abbc3873a0f167f38ae1db0a3f90bb53c6dfa12ab06ad1ec94).
