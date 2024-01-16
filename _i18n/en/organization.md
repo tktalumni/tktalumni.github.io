@@ -1,47 +1,43 @@
-## Board 2023
+## Board 2024
 
 **Email:** tktalumnit@gmail.com
 
-**Outi Ravila**<br/>
+**Milla Kortelainen**<br/>
 Chair of the Board
 
 **Ville-Veikko Saari**<br/>
 Vice Chair of the Board
 
-**Miia Rämö**<br/>
-Secretary, Member Coordinator
+**Heli Huhtilainen**<br/>
+Secretary
 
 **Markus Jantunen**<br/>
 Treasurer
 
 **Kalle Viiri**<br/>
-Communications Officer, Student Coordinator, Recreational Coordinator
+Communications Officer, Event Coordinator, Student Coordinator, Recreational Coordinator
 
 **Mikko Rinta-Homi**<br/>
 Event Coordinator, Recreational Coordinator
 
-**Jonne Airaksinen**<br/>
-Event Coordinator
+**Jarkko Karttunen**<br/>
+Recreational Coordinator
 
-**Joonas Sarapalo**<br/>
-Event Coordinator
+**Outi Ravila**<br/>
+Event Coordinator, Student Coordinator
 
 **Paul Saikko**<br/>
-Event Coordinator
+Member Coordinator
 
-**Raimo Voutilainen**<br/>
-Event Coordinator
+**Olli Keski-Hynnilä**<br/>
+Website Adminstrator
 
 ## Other nominated officers
 
-**Sean Lang**<br/>
-International Affairs Coordinator
-
-**Olli Keski-Hynnilä**<br/>
-Website Administrator
-
 ## Board meeting minutes
 
-The board meeting minutes can be found from the link below. The minutes are currently only in Finnish.
+The board meeting minutes can be found from the links below. The minutes are currently only in Finnish.
 
-[Board meeting minutes](https://drive.google.com/drive/folders/12oN8oljJDjr20P5YC11K-v-bk256kYlS)
+[2024 meetings](https://drive.google.com/drive/folders/1mbYcmbhP4mXZdYVnx6NP8YhF6DVUNnaT)
+
+[2023 meetings](https://drive.google.com/drive/folders/12oN8oljJDjr20P5YC11K-v-bk256kYlS)

@@ -1,45 +1,41 @@
-## Hallitus 2023
+## Hallitus 2024
 
 **Sähköposti:** tktalumnit@gmail.com
 
-**Outi Ravila**<br/>
+**Milla Kortelainen**<br/>
 Puheenjohtaja
 
 **Ville-Veikko Saari**<br/>
 Varapuheenjohtaja
 
-**Miia Rämö**<br/>
-Sihteeri, jäsenvastaava
+**Heli Huhtilainen**<br/>
+Sihteeri
 
 **Markus Jantunen**<br/>
 Rahastonhoitaja
 
 **Kalle Viiri**<br/>
-Tiedottaja, opiskelijayhteistyövastaava, virkistysvastaava
+Tiedottaja, opiskelijayhteistyövastaava, virkistysvastaava, tapahtumavastaava
 
 **Mikko Rinta-Homi**<br/>
 Tapahtumavastaava, virkistysvastaava
 
-**Jonne Airaksinen**<br/>
-Tapahtumavastaava
+**Jarkko Karttunen**<br/>
+Virkistysvastaava
 
-**Joonas Sarapalo**<br/>
-Tapahtumavastaava
+**Outi Ravila**<br/>
+Tapahtumavastaava, opiskelijayhteistyövastaava
 
 **Paul Saikko**<br/>
-Tapahtumavastaava
-
-**Raimo Voutilainen**<br/>
-Tapahtumavastaava
-
-## Muut nimetyt virkailijat
-
-**Sean Lang**<br/>
-KV-vastaava
+Jäsenvastaavat
 
 **Olli Keski-Hynnilä**<br/>
 Nettisivuvastaava
 
-## Hallituksen kokousten pöytäkirjoja
+## Muut nimetyt virkailijat
 
-[Tästä Drivestä](https://drive.google.com/drive/folders/12oN8oljJDjr20P5YC11K-v-bk256kYlS) löytyy hallituksen kokousten pöytäkirjat.
+## Kokousten pöytäkirjoja
+
+[2024 kokoukset](https://drive.google.com/drive/folders/1mbYcmbhP4mXZdYVnx6NP8YhF6DVUNnaT)
+
+[2023 kokoukset](https://drive.google.com/drive/folders/12oN8oljJDjr20P5YC11K-v-bk256kYlS)
