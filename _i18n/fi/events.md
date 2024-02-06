@@ -8,7 +8,7 @@ TKO-äly vs TKT-alumni FAIJAPONG!
 
 Ilmoittaudu otteluun ja ole mukana viemässä parempi puoli voittoon! Ottelu starttaa klo 19. Mikäli innokkaita riittää voidaan otteluita järjestää useampi. Tämä pitää nähdä, joten tule seuraamaan mitä ilta tuokaan tullessaan!
 
-Lisätietoja TKO-älyn kalenterista: https://members.tko-aly.fi/calendar_events/view/2369
+[Lisätietoja TKO-älyn kalenterista](https://members.tko-aly.fi/calendar_events/view/2369)
 
 ### Hallituksen kokous
 

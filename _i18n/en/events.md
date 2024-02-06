@@ -8,7 +8,7 @@ TKO-äly vs TKT-alumni FAIJAPONG!
 
 Sign up for the match and be part of taking your side to victory! The match starts at 19:00. If there are enough eager participants, we can organize several matches. This is a must-see, so come and see what the evening brings!
 
-Additional info from TKO-älys calendar: https://members.tko-aly.fi/calendar_events/view/2369
+[Additional info from TKO-älys calendar](https://members.tko-aly.fi/calendar_events/view/2369)
 
 ### Board meetings
 
