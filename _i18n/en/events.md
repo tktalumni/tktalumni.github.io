@@ -1,5 +1,15 @@
 ## Upcoming events
 
+### TKO-äly <3 TKT-alumni evening at Klusteri
+
+The Valentine's Day excitement continues as dear friends TKO-äly and TKT-alumni gather at the good old cluster<3. Expect relaxed hanging out, snacking and surely exciting moments! Who will win at pong? Can the youngsters play? Do the old folks have the stamina? This needs to be found out, and that's why during the evening, we will organize
+
+TKO-äly vs TKT-alumni FAIJAPONG!
+
+Sign up for the match and be part of taking your side to victory! The match starts at 19:00. If there are enough eager participants, we can organize several matches. This is a must-see, so come and see what the evening brings!
+
+Additional info from TKO-älys calendar: https://members.tko-aly.fi/calendar_events/view/2369
+
 ### Board meetings
 
 Monthly board meetings on 2nd Wednesday of the Month at 6pm (or next if it is a public Holiday). The location for each meetings is announced in the Telegram group, and if the meeting is remotely it's held in [Jitsi](https://meet.jit.si/moderated/19ae2faf2f6f13abbc3873a0f167f38ae1db0a3f90bb53c6dfa12ab06ad1ec94).
