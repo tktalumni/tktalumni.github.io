@@ -18,6 +18,8 @@ TKT-alumni ry on Helsingin yliopiston tietojenkäsittelytieteen osaston alumnij�
 
 [Telegram-ryhmä](https://t.me/tkt_alumni)
 
+[Linkedin-ryhmä](https://www.linkedin.com/groups/1863706/)
+
 Jäsenet liitetään sähköpostilistalle.
 
 Viestinnän perusperiaate: Tulevista tapahtumista yms. tiedotetaan pääsääntöisesti Telegramissa. Isommille tapahtumille luodaan Facebook-tapahtuma. Koska haluamme välttää jäsentemme sähköpostien spammaamista, jäsenlistalla tiedotetaan lähinnä yhdistyksen virallisista asioista, kuten tulevista vuosikokouksista. Vuodessa voidaan lähettää myös joitakin kokoavia sähköpostiviestejä, tai tiedottaa poikkeuksellisista asioista.
