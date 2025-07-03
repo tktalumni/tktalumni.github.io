@@ -2,37 +2,35 @@
 
 **Email:** tktalumnit@gmail.com
 
-**Milla Kortelainen**<br/>
-Chair of the Board, Company Coordinator
-
 **Ville-Veikko Saari**<br/>
-Vice Chair of the Board
+Chair of the board
 
 **Heli Huhtilainen**<br/>
-Secretary
+Vice Chair of the Board
 
-**Markus Jantunen**<br/>
+**Milla Kortelainen**<br/>
+Secretary, Member Coordinator
+
+**Miika Leinonen**<br/>
+
 Treasurer
 
-**Kalle Viiri**<br/>
-Communications Officer, Event Coordinator, Student Coordinator, Recreational Coordinator, Company Coordinator
-
-**Mikko Rinta-Homi**<br/>
-Event Coordinator, Recreational Coordinator, Company Coordinator
-
 **Jarkko Karttunen**<br/>
-Recreational Coordinator
+Company Coordinator, Product Coordinator
 
 **Outi Ravila**<br/>
 Student Coordinator, Company Coordinator
 
-**Paul Saikko**<br/>
-Member Coordinator
+**Vilma Kangas**<br/>
+Department Coordinator, Culture Coordinator
+
+## Other nominated officers
+
+**Kalle Viiri**<br/>
+Event Coordinator
 
 **Olli Keski-Hynnilä**<br/>
 Website Adminstrator
-
-## Other nominated officers
 
 ## Board meeting minutes
 

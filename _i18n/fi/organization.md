@@ -2,37 +2,35 @@
 
 **Sähköposti:** tktalumnit@gmail.com
 
-**Milla Kortelainen**<br/>
-Puheenjohtaja, yritysvastaava
-
 **Ville-Veikko Saari**<br/>
-Varapuheenjohtaja
+Puheenjohtaja
 
 **Heli Huhtilainen**<br/>
-Sihteeri
+Varapuheenjohtaja
 
-**Markus Jantunen**<br/>
+**Milla Kortelainen**<br/>
+Sihteeri, jäsenvastaava
+
+**Miika Leinonen**<br/>
+
 Rahastonhoitaja
 
-**Kalle Viiri**<br/>
-Tiedottaja, opiskelijayhteistyövastaava, virkistysvastaava, tapahtumavastaava, yritysvastaava
-
-**Mikko Rinta-Homi**<br/>
-Tapahtumavastaava, virkistysvastaava, yritysvastaava
-
 **Jarkko Karttunen**<br/>
-Virkistysvastaava
+Yritystiimi, tuotevastaava
 
 **Outi Ravila**<br/>
-Opiskelijayhteistyövastaava, yritysvastaava
+Opiskelijayhteistyö, yritysvastaava
 
-**Paul Saikko**<br/>
-Jäsenvastaava
+**Vilma Kangas**<br/>
+Osastovastaava, kulttuurivastaava
+
+## Muut nimetyt virkailijat
+
+**Kalle Viiri**<br/>
+Tapahtumavastaava
 
 **Olli Keski-Hynnilä**<br/>
 Nettisivuvastaava
-
-## Muut nimetyt virkailijat
 
 ## Kokousten pöytäkirjat
 
